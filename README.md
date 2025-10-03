@@ -73,22 +73,26 @@ sudo setoolkit
 ```bash
 2) Site Cloner
 ```
-<img width="663" height="343" alt="image" src="https://github.com/user-attachments/assets/ef91abbb-e02d-440c-811f-ba16f407f2b9" />
+<img width="911" height="388" alt="Screenshot 2025-10-03 193158" src="https://github.com/user-attachments/assets/23a05281-e25e-4784-9ab2-eeca33449c63" />
+
 
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
-<img width="843" height="199" alt="image" src="https://github.com/user-attachments/assets/989326f4-6f84-468d-9271-1184f9fcfa9f" />
+<img width="931" height="331" alt="Screenshot 2025-10-03 193023" src="https://github.com/user-attachments/assets/8331990b-4741-4b1c-9a29-479a5853d8f7" />
+
 
 
 **6. Send the generated link to the victim.**
-<img width="1278" height="842" alt="image" src="https://github.com/user-attachments/assets/76ea6d3b-7772-44bf-8c4c-6df3d90ea7c1" />
+
+<img width="913" height="670" alt="Screenshot 2025-10-03 191805" src="https://github.com/user-attachments/assets/39b60b56-78d1-44f8-9fa0-f8d3a37c3105" />
 
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-<img width="945" height="427" alt="image" src="https://github.com/user-attachments/assets/2c257fb3-bbd2-45c3-839a-09462d18c477" />
 
+
+<img width="902" height="337" alt="Screenshot 2025-10-03 191839" src="https://github.com/user-attachments/assets/85d6f64e-2147-4195-b183-0d2ae9a909fd" />
 
 
 ## RESULT:
